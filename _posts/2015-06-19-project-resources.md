@@ -3,15 +3,16 @@ layout: post
 title: Risorse
 date: 19 June 2015
 ---
-## Problemi 
+
+### Problemi 
 
 Nella gestione di questo blog ho incontrato svariati problemi, dovuti in gran parte alla mia scarsissima conoscenza delle tecnologie che stanno alla base di esso, ed al fatto che ho dovuto affrontare contestualmente più argomenti a me sconosciuti nello stesso progetto: Linux, linea di comando, Jekyll, Markdown, GitHub.
 
-## Come risolvere
+### Come risolvere
 
 Fortunatamente Google e StackOverflow sono davvero una miniera enorme di informazioni, e la ricerca paziente nonchè la continua pratica possono dare frutti insperati.
 
-## Risorse
+### Risorse
 
 In questa continua ricerca e sperimentazione di questi giorni mi sono imbattutto in innumerevoli tutorial, guide, Q&A. Una mole notevole di materiale che porta certamente conoscenza ma spesso anche confusione. Vediamo allora ciò che ho trovato in questi giorni ed è meritevole di menzione e di bookmark, per chiarezza, qualità ed utilità.
 - [Build A Blog With Jekyll And GitHub Pages](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) - Smashing Magazine: un articolo illuminante, fonte di preziosissimi consigli.
