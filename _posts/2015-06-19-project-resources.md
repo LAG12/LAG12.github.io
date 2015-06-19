@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Jekyll e GitHub: Risorse
+title: Risorse
 date: 19 June 2015
 ---
-
 ## Problemi 
 
 Nella gestione di questo blog ho incontrato svariati problemi, dovuti in gran parte alla mia scarsissima conoscenza delle tecnologie che stanno alla base di esso, ed al fatto che ho dovuto affrontare contestualmente più argomenti a me sconosciuti nello stesso progetto: Linux, linea di comando, Jekyll, Markdown, GitHub.
