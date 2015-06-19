@@ -74,13 +74,13 @@ html {
 .sidebar a {
   color: #fff;
 }
-.sidebar h1 a {
-  color: #FB534C;
-}
+.sidebar h1 a {  /* aggiunto per rendere rosso il titolo della sidebar LAG */
+  color: #FB534C; 
+} 
 
 /* About section */
 .sidebar-about h1 {
-  color: #FB534C; /*#fff;*/
+  color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
   font-size: 3.25rem;
