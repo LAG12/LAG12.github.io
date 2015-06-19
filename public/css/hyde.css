@@ -74,6 +74,9 @@ html {
 .sidebar a {
   color: #fff;
 }
+.sidebar .title a {
+  color: #FB534C;
+}
 
 /* About section */
 .sidebar-about h1 {
