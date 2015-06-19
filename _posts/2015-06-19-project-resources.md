@@ -4,9 +4,11 @@ title: Risorse
 date: 19 June 2015
 ---
 
+Dopo alcuni giorni di full immersion nell'impostazione di questo blog e nel capirne di più, è buona cosa fare un primissimo punto sullo stato dell'arte. Credo che tra qualche giorno la gestione del blog sarà più automatica e meno problematica, ed io potrò tornare a dedicarmi a CSS e Javascript.
+
 ### Problemi 
 
-Nella gestione di questo blog ho incontrato svariati problemi, dovuti in gran parte alla mia scarsissima conoscenza delle tecnologie che stanno alla base di esso, ed al fatto che ho dovuto affrontare contestualmente più argomenti a me sconosciuti nello stesso progetto: Linux, linea di comando, Jekyll, Markdown, GitHub.
+Nella gestione di questo blog ho incontrato, e continuo ad incontrare, svariati problemi, dovuti in gran parte alla mia scarsissima conoscenza delle tecnologie che stanno alla base di esso, ed al fatto che ho dovuto affrontare contestualmente più argomenti a me sconosciuti nello stesso progetto: Linux, linea di comando, Jekyll, Markdown, GitHub.
 
 ### Come risolvere
 
