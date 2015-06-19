@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Un primo punto su questo blog: alcune risorse molto utili
+title: Un primo punto su Github-Jekyll
 date: 19 June 2015
 ---
 
