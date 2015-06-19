@@ -1,0 +1,38 @@
+---
+layout: default
+title: Home
+---
+<img src="logo.png" alt="logo" class="inline"/><!--aggiunta questa riga per logo in index-->
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post" style="text-align:center"><!--aggiunto al div: style="text-align:center"-->
+    <h2 class="post-title"><!--h2 invece di h1-->
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ [(...)]post.excerpt }}<!--{{ post.content }}-->
+  </div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>

@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            LAG
+tagline:          'Another blog'
+description:      'The meaning of life is to give life a meaning. Made by <a href="https://twitter.com/Lago72" target="_blank">LAG</a>.'
+url:              https://lag12.github.io/
+baseurl:          /
+
+author:
+  name:           'LAG'
+  url:            https://twitter.com/Lago72
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/LAG12/LAG12.github.io
