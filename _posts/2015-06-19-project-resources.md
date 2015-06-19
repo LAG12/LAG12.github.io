@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Risorse
+title: Un primo punto su GitHub-Jekyll: alcune risorse molto utili
 date: 19 June 2015
 ---
 
