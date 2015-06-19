@@ -1,5 +1,7 @@
 ---
-published: true
+layout: post
+title: Jekyll e GitHub: risorse
+date: 19 June 2015
 ---
 
 
@@ -19,4 +21,3 @@ In questa continua ricerca e sperimentazione di questi giorni mi sono imbattutto
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet"): la guida più semplice e chiara sul markdown.
 - [UTF8 encode](http://www.cafewebmaster.com/online_tools/utf8_encode "UTF8 encode") - Un tool online che mi ha permesso di superare uno dei problemi che più spesso mi si è presentato in questi giorni: > Error:  invalid byte sequence in UTF-8. Degno di menzione anche [quest'altro tool](http://www.motobit.com/util/charset-codepage-conversion.asp) simile.
 - Su Git e GitHub ho trovato varie guide, alcune veramente superlative, ma ammetto di avere ancora parecchi problemi con essi. Degna di menzione è certamente [TryGit](https://try.github.io/levels/1/challenges/1 "TryGit - Code School") di Code School, [Git - la guida tascabile](http://rogerdudler.github.io/git-guide/index.it.html "Git - la guida tascabile"), anche in italiano, [Git Reference](http://gitref.org/ "Git Reference") e [Become a Git guru](https://www.atlassian.com/git/tutorials/ "Become a Git guru") (in particolare la prima parte: Getting Started).
-- item
