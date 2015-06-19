@@ -1,10 +1,8 @@
 ---
 layout: post
-title: prova
+title: Jekyll e GitHub: Risorse
 date: 19 June 2015
 ---
-
-Innanzitutto è giusto specificare che si tratta di una classifica che riguarda non i film più belli
 
 ## Problemi 
 
