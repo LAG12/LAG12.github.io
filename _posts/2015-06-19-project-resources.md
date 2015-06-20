@@ -21,6 +21,9 @@ In questa continua ricerca e sperimentazione di questi giorni mi sono imbattutto
 - [Build A Blog With Jekyll And GitHub Pages](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) - Smashing Magazine: un articolo illuminante, fonte di preziosissimi consigli.
 
 
+- [How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole/) - Joshua Lande 
+
+
 - [Prose](http://prose.io/#about "prose.io"): un fantastico content editor integrato su GitHub ed ottimizzato per Jekyll che mi ha risolto un problema per me fondamentale, i miei ancora pessimi rapporti con GitHub. Con questo editor interno riesco a modificare file esistenti ed inviare nuovi post con insperata facilità. Lo sto usando da pochissimo ma sembra sia proprio quello che cercavo.
 
 
